@@ -34,6 +34,19 @@ timezones.sql for creating timezones database, relevant tables and initial roles
 timezones_test.sql for creating timezones test database, relevant tables and initial roles
 ```
 
+## Running the app
+
+In order to run dashboard
+```
+/dashboard/
+npm run
+```
+
+In order to run api
+```
+You will have to setup web server and MySql in order to run api
+```
+
 ## Running the tests
 
 Unit tests
