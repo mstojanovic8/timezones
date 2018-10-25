@@ -16,6 +16,8 @@ Api
 ```
 /api/
 composer install
+/api/application/
+composer install
 ```
 
 Dashboard
