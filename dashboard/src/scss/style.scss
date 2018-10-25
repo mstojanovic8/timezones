@@ -1,0 +1,25 @@
+.app,
+app-dashboard,
+app-root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.error-message{
+    color: red;
+    font-size: 0.9em;
+
+}
+
+.navigation{
+  margin-bottom: 20px;
+}
+
+.add-new{
+  float:right;
+}
+
+.filter{
+  margin-bottom:20px;
+}

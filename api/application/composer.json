@@ -1,0 +1,18 @@
+{
+    "description":"Timezone interview project for FishingBooker",
+    "name": "timezone",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Marko Stojanovic",
+            "email": "markos494@gmail.com"
+        }
+    ],
+    "require": {
+        "chriskacerguis/codeigniter-restserver": "^3.0",
+        "firebase/php-jwt": "^5.0"
+    },
+    "require-dev": {
+        "kenjis/ci-phpunit-test": "^0.16.1"
+    }
+}
