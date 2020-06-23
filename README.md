@@ -7,7 +7,7 @@ Timezones Manager - FishingBooker interview project
 ```
 You will need NodeJS (npm) / Composer / PHP / MySql / Web Server in order to install/run this project
 ```
-
+`code`
 ### Installing
 
 Clone this repo and run:
